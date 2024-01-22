@@ -1,4 +1,4 @@
-# CPE-311 - Computational Thinking with Python
+# CPE 311 - Computational Thinking with Python
 
 - 👋 I'm Jay-ann Alorro, a computer engineering student. 
 - 👀 I’m interested in computer science, animation, and all things computer.
